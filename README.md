@@ -2,6 +2,9 @@
 
 A modern, responsive personal portfolio website showcasing my skills and experience as a Financial Analyst and Frontend Developer.
 
+[live demo](https://possofarlo.github.io/portfolio/)
+
+
 ## Features
 
 - 🎨 Modern and clean design
